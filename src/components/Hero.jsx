@@ -22,7 +22,7 @@ export default function Hero() {
         </div>
 
         <p className="text-base md:text-lg text-monarc-text-secondary max-w-2xl mx-auto leading-relaxed">
-          Where form meets function in the shadows. Architectural precision crafted for those who move through the world quietly.
+          descripcion.
         </p>
 
         <button
@@ -30,7 +30,7 @@ export default function Hero() {
           className="group relative inline-block"
         >
           <span className="relative inline-block px-12 py-4 border-2 border-monarc-text text-monarc-text tracking-widest uppercase text-sm font-medium transition-all duration-300 hover:bg-monarc-text hover:text-monarc-black">
-            Enter the Archive
+            Entrar a Archive
           </span>
         </button>
       </div>

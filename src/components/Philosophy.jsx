@@ -7,7 +7,7 @@ export default function Philosophy() {
             <h2 className="text-4xl md:text-5xl font-serif tracking-wider leading-tight">
               Built in silence.
               <br />
-              Worn with purpose.
+              live with purpose.
             </h2>
 
             <div className="space-y-6 text-monarc-text-secondary leading-relaxed">
@@ -27,14 +27,14 @@ export default function Philosophy() {
 
             <div className="pt-8 border-t border-monarc-text-secondary/20">
               <p className="text-xs tracking-ultra uppercase text-monarc-text-secondary">
-                Est. 2024 — Crafted for the discerning
+                2026 CO
               </p>
             </div>
           </div>
 
           <div className="aspect-[3/4] bg-monarc-black overflow-hidden">
             <img
-              src="https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=800"
+              src="./img/monarc_large.png"
               alt="MØNARC philosophy"
               className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
             />

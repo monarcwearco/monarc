@@ -43,13 +43,13 @@ export default function Navbar() {
               onClick={() => scrollToSection('shop')}
               className="text-sm tracking-wider uppercase hover:text-monarc-accent transition-colors duration-300"
             >
-              Shop
+              Tienda
             </button>
             <button
               onClick={() => scrollToSection('philosophy')}
               className="text-sm tracking-wider uppercase hover:text-monarc-accent transition-colors duration-300"
             >
-              About
+              Nosotros
             </button>
             <button
               onClick={() => scrollToSection('shop')}
@@ -61,7 +61,7 @@ export default function Navbar() {
               onClick={() => scrollToSection('contact')}
               className="text-sm tracking-wider uppercase hover:text-monarc-accent transition-colors duration-300"
             >
-              Contact
+              Contacto
             </button>
           </div>
 

@@ -5,9 +5,9 @@ export default function ProductCard({ product }) {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const generateWhatsAppLink = () => {
-    const message = `Hello, I'm interested in the ${product.name} priced at $${product.price} from MØNARC.`;
+    const message = `Hola, estoy interesado en el ${product.name} con el precio de $${product.price} de MØNARC.`;
     const encodedMessage = encodeURIComponent(message);
-    return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodedMessage}`;
+    return `https://wa.me/${3016505474}?text=${encodedMessage}`;
   };
 
   const getAvailabilityLabel = () => {
@@ -113,7 +113,7 @@ export default function ProductCard({ product }) {
                   rel="noopener noreferrer"
                   className="block w-full text-center border-2 border-monarc-text py-4 px-8 text-sm tracking-widest uppercase font-medium transition-all duration-300 hover:bg-monarc-text hover:text-monarc-black"
                 >
-                  Inquire via WhatsApp
+                  Adquirir via Whatsapp
                 </a>
               </div>
             </div>

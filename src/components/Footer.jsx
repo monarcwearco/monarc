@@ -12,37 +12,37 @@ export default function Footer() {
 
           <div className="space-y-4">
             <h4 className="text-xs tracking-ultra uppercase text-monarc-text-secondary mb-4">
-              Navigate
+              Navegar
             </h4>
             <nav className="flex flex-col space-y-3">
               <a
                 href="#shop"
                 className="text-sm hover:text-monarc-accent transition-colors duration-300"
               >
-                Shop
+                Tienda
               </a>
               <a
                 href="#philosophy"
                 className="text-sm hover:text-monarc-accent transition-colors duration-300"
               >
-                About
+                Nosotros
               </a>
               <a
                 href="#contact"
                 className="text-sm hover:text-monarc-accent transition-colors duration-300"
               >
-                Contact
+                Contacto
               </a>
             </nav>
           </div>
 
           <div className="space-y-4">
             <h4 className="text-xs tracking-ultra uppercase text-monarc-text-secondary mb-4">
-              Connect
+              Connect   
             </h4>
             <div className="flex space-x-6">
               <a
-                href="https://instagram.com/monarc"
+                href="https://www.instagram.com/monarc.co_/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-monarc-accent transition-colors duration-300"
@@ -57,7 +57,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="https://tiktok.com/@monarc"
+                href="https://tiktok.com/nothingyet"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-monarc-accent transition-colors duration-300"
@@ -74,10 +74,11 @@ export default function Footer() {
             </div>
             <div className="pt-4">
               <a
-                href="mailto:contact@monarc.studio"
+                href="mailto:monarc.wearco@gmail.com"
                 className="text-sm text-monarc-text-secondary hover:text-monarc-accent transition-colors duration-300"
               >
-                contact@monarc.studio
+                monarc.wearco@gmail.com
+
               </a>
             </div>
           </div>

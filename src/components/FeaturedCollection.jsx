@@ -39,7 +39,7 @@ export default function FeaturedCollection() {
             THE ARCHIVE
           </h2>
           <p className="text-monarc-text-secondary tracking-wider">
-            Curated essentials for the silent
+            Catalogo No. 1
           </p>
         </div>
 
